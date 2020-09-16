@@ -1,0 +1,5 @@
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.deps.json
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.IoC.AssemblyInfo.cs

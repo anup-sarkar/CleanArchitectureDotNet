@@ -1,0 +1,12 @@
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csprojAssemblyReference.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.AssemblyInfoInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.AssemblyInfo.cs
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csproj.CoreCompileInputs.cache
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.App.deps.json
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.csproj.CopyComplete
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.App\obj\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
