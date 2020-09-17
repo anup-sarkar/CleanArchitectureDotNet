@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/Dl6urPVmadPzhDI9EywK16x2a0qwSziZYS0eCLOri7bug0JhVghK+gMHH8q1dG8bdVSf1qxvvYtx10wqdQnyg==",
+  "dgSpecHash": "1pVXC+bUbs6FeV6iP16fkm9OF2kZZcYObzjeuen613G8olaV4XN0RA/t2nCwO7W+JAwPGl8pV3aaJhKD56i4cQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.Infra.IoC\\CleanArchitecture.Infra.IoC.csproj",
   "expectedPackageFiles": [

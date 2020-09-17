@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MidaXWgiDONfPqIhcEWagxfYM5VJmb2349JxhL02QtbK1IsLT0ECabTHNlKfmhtfwKI/55DEqf5yxhBDezPaoA==",
+  "dgSpecHash": "tzC4jvYpanFAZQcly5Pn1HSakMZjGtt4GuyFox59NZnK6l28PzQNwXpY8PTVIzJemOcEX7vOLEfc9wFNj9sPuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
   "expectedPackageFiles": [

@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ClassLibrary1\CleanArchitecture.Domain.csproj" />
+    <ProjectReference Include="..\CleanArchitecture.App\CleanArchitecture.App.csproj" />
   </ItemGroup>
 
 </Project>

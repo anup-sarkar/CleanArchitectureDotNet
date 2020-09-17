@@ -6,3 +6,4 @@ C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj
 C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
 C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\ClassLibrary1\obj\Debug\netcoreapp3.1\CleanArchitecture.Domain.csprojAssemblyReference.cache

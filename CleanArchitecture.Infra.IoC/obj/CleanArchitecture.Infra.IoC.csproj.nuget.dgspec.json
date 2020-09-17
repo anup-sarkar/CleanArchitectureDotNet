@@ -146,6 +146,9 @@
             "projectReferences": {
               "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\ClassLibrary1\\CleanArchitecture.Domain.csproj": {
                 "projectPath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\ClassLibrary1\\CleanArchitecture.Domain.csproj"
+              },
+              "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
+                "projectPath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
               }
             }
           }
