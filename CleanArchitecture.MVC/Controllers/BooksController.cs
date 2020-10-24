@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using CleanArchitecture.App.Interfaces;
 using CleanArchitecture.App.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CleanArchitecture.MVC.Controllers
 {
@@ -20,7 +21,10 @@ namespace CleanArchitecture.MVC.Controllers
         {
             BooksViewModel booksViewModel = bookService.GetBooks();
 
-            return View(booksViewModel);
+            //   var booksViewModel2 = new BooksViewModel { Books= bookService.Get(s => s.Id == 1,include: s=> (Domain.Inferfaces.IIncludableQueryable<Domain.Models.Books, object>) s.Include(x=>x.Authors)) };
+                 var booksViewModel2 = new BooksViewModel { Books= bookService.Get(s => s.Id == 1,  x=>x.Authors , x=>x.Authors.Address) };
+
+            return View(booksViewModel2);
         }
     }
 }

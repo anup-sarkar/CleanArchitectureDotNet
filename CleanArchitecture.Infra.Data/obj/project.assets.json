@@ -1500,7 +1500,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "CleanArchitecture.Domain": "1.0.0"
+          "CleanArchitecture.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.8"
         },
         "compile": {
           "bin/placeholder/CleanArchitecture.App.dll": {}
@@ -5708,23 +5709,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anup Workspace\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Joker\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
       "projectName": "CleanArchitecture.Infra.Data",
-      "projectPath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\Anup Workspace\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.Infra.Data\\obj\\",
+      "projectPath": "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\CleanArchitecture.Infra.Data\\CleanArchitecture.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\Joker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\CleanArchitecture.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Anup Workspace\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5737,11 +5734,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\ClassLibrary1\\CleanArchitecture.Domain.csproj": {
-              "projectPath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\ClassLibrary1\\CleanArchitecture.Domain.csproj"
+            "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj": {
+              "projectPath": "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\ClassLibrary1\\CleanArchitecture.Domain.csproj"
             },
-            "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
-              "projectPath": "C:\\Users\\Anup Workspace\\Documents\\DotNetCore\\CleanArchitecture\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
+            "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\CleanArchitecture.App\\CleanArchitecture.App.csproj": {
+              "projectPath": "C:\\Users\\Joker\\Documents\\Visual Studio 2019\\Projects\\CleanArchitectureDotNet\\CleanArchitecture.App\\CleanArchitecture.App.csproj"
             }
           }
         }
@@ -5791,7 +5788,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

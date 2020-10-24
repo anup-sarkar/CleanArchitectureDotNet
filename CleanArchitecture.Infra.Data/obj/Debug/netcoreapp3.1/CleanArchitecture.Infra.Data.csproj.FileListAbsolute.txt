@@ -13,3 +13,20 @@ C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture
 C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
 C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
 C:\Users\Anup Workspace\Documents\DotNetCore\CleanArchitecture\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CopyComplete
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.deps.json
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.runtimeconfig.json
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.runtimeconfig.dev.json
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.App.dll
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.dll
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.Domain.pdb
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\bin\Debug\netcoreapp3.1\CleanArchitecture.App.pdb
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.AssemblyInfo.cs
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.csproj.CopyComplete
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.dll
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.pdb
+C:\Users\Joker\Documents\Visual Studio 2019\Projects\CleanArchitectureDotNet\CleanArchitecture.Infra.Data\obj\Debug\netcoreapp3.1\CleanArchitecture.Infra.Data.genruntimeconfig.cache

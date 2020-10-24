@@ -1,6 +1,7 @@
 ﻿using CleanArchitecture.App.Interfaces;
 using CleanArchitecture.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Text;
 
 namespace CleanArchitecture.Infra.Data.Repositories
 {
-    class Repository<T> : IRepository<T> where T : EntityBase
+   public class Repository<T> : IRepository<T> where T : EntityBase
     {
         readonly PrimaryDBContext _context;
 
@@ -18,6 +19,19 @@ namespace CleanArchitecture.Infra.Data.Repositories
         {
             _context = context;
         }
+
+
+        public IQueryable<T> Get(Expression<Func<T, bool>> expression, Func<IQueryable<T>, IIncludableQueryable<T, object>> include = null)
+        {
+            IQueryable<T> query = _context.Set<T>().Where(expression).AsQueryable();
+
+
+            if (include != null)
+                query = include(query);
+
+            return query;
+        }
+
 
 
         public virtual T GetById(int id)
@@ -56,7 +70,6 @@ namespace CleanArchitecture.Infra.Data.Repositories
             _context.Set<T>().Remove(entity);
             _context.SaveChanges();
         }
-
 
       
     }

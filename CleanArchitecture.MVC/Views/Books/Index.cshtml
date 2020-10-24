@@ -13,16 +13,19 @@
     <thead>
         <tr>
             <th>
-               ID
+                ID
             </th>
             <th>
                 Name
             </th>
             <th>
-               ISBN
+                ISBN
             </th>
             <th>
-              Author Name
+                Author Name
+            </th>
+            <th>
+                Address
             </th>
             <th></th>
         </tr>
@@ -40,8 +43,14 @@
                 @item.ISBN
             </td>
             <td>
-                @item.AuthorName
+                @item.Authors.AuthorName
             </td>
+
+            <td>
+                @item.Authors.Address.AddressName
+            </td>
+
+
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |

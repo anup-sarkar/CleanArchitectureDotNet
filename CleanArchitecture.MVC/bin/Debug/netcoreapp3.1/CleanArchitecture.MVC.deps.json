@@ -2342,7 +2342,8 @@
       },
       "CleanArchitecture.App/1.0.0": {
         "dependencies": {
-          "CleanArchitecture.Domain": "1.0.0"
+          "CleanArchitecture.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.8"
         },
         "runtime": {
           "CleanArchitecture.App.dll": {}
@@ -2361,6 +2362,7 @@
       },
       "CleanArchitecture.Infra.Data/1.0.0": {
         "dependencies": {
+          "CleanArchitecture.App": "1.0.0",
           "CleanArchitecture.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.8"

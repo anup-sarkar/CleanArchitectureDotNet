@@ -12,5 +12,9 @@ namespace CleanArchitecture.Infra.Data.Context
         public PrimaryDBContext(DbContextOptions options) : base(options)  {   } 
 
         public DbSet<Books> Books { get; set; }
+
+        public DbSet<Authors> Authors { get; set; }
+
+        public DbSet<Address> Addresses { get; set; }
     }
 }
